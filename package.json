@@ -1,0 +1,31 @@
+{
+  "name": "template-parser",
+  "version": "1.0.0",
+  "description": "Template parser module with handlebars",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jblandino/template-parser"
+  },
+  "keywords": [
+    "template-parser",
+    "template_parser",
+    "teamplateparser",
+    "teamplateParser",
+    "template",
+    "parser",
+    "hanbdlebars"
+  ],
+  "author": "Joel A. Jaime <joel.alexander.jaime@gmail.com> (http://blandino.info/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jblandino/template-parser/issues"
+  },
+  "homepage": "https://github.com/jblandino/template-parser",
+  "dependencies": {
+    "handlebars": "^3.0.3"
+  }
+}
